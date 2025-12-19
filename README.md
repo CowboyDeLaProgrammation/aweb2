@@ -1,4 +1,4 @@
-<!-- 
+
 
 AUTEUR : Aleksandr Lukin / Cowboy de la Programmation 
 
@@ -89,4 +89,4 @@ EXEMPLES DE REQUETE
          }
 
 
--->
+

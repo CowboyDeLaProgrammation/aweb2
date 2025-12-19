@@ -1,4 +1,4 @@
-<!-- 
+
 
 AUTEUR : Aleksandr Lukin / Cowboy de la Programmation 
 
@@ -31,4 +31,4 @@ Lors de la supression d'une note ca supprimait que le titre de la note mais ca g
 de toutes les tables.
 
 l'api retourne erreur 500 peu n'importe quel requete sur le poste de l'ecole
--->
+
