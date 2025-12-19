@@ -1,4 +1,4 @@
-<!-- Aleksandr Lukin -->
+<!-- Aleksandr Lukin / Cowboy de la Programmation -->
 <!DOCTYPE HTML>
 <html lang="fr">
     <head>

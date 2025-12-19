@@ -1,6 +1,5 @@
 <?php
-
-require_once 'constantes.php';
+// AUTEUR : Aleksandr Lukin / Cowboy de la Programmation
 
 function RecupererBody() {
 	$contenu = file_get_contents("php://input");

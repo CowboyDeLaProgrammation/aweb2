@@ -1,4 +1,8 @@
 <?php
+// AUTEUR : Aleksandr Lukin / Cowboy de la Programmation
+
+require_once ('../api/constantes.php');
+
 //Initialise et retourne la connection à la base de données
 function connexionBdd() : PDO
 {
